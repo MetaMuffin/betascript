@@ -1,0 +1,19 @@
+
+
+€ Fakultät
+=A(a,&a*aA„a)A10
+
+€ is n disible by d?
+=T(nd,!-n*/ndd)
+
+€ Is n a prime?
+=P(n,:i;n&-n1&Tni^1)
+
+€ List of all primes up to n
+=K(m,:i;&Pi)
+
+€ Pascals Triangle
+=C(l,:§iv_+l0+v[l)
+
+
+
